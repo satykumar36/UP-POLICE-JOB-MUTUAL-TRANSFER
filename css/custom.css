@@ -1,0 +1,36 @@
+.text-primary {
+    color: #00274D !important;
+}
+a.search_partner_btn{
+    background-image: url(../img/user-avatar.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    background-position: 11% center;
+    padding-left: 32px;
+    padding-right: 10px;
+}
+.search_partner.nav-btn{
+    border: 1px solid;
+    justify-content: start;
+}
+.search_partner.nav-btn a{
+    margin-left: 0px !important;
+    padding-left: 40px;
+    padding-right: 15px;
+}
+.logo-text{
+    font-weight: 700;
+}
+.search_partner_btn{
+    background-color:#00274D ;
+    color: white;
+}
+.login_signup_btn {
+    background-color: #00274D;
+    color: white;
+    padding-inline: 20px;
+}
+.login_signup.nav-btn {
+    justify-content: end;
+}
+
