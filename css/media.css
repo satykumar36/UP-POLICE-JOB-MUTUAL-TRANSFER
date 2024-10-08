@@ -65,5 +65,35 @@
     a.search_partner_btn {
         background-position: 6% center;
     }
+    .logo-text {
+        font-size: 25px;
+    }
+
+}
+@media only screen and (max-width: 430px) {
+    .logo-text {
+        font-size: 20px;
+    }
+    a.search_partner_btn {
+        background-size: 17px;
+        background-position: 6% center;
+        padding-left: 28px;
+        padding-right: 7px;
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+        font-size: 14px;
+    }
+
+}
+@media only screen and (max-width: 375px) {
+    .logo-text {
+        font-size: 18px;
+    }
+
+}
+@media only screen and (max-width: 330px) {
+    .logo-text {
+        font-size: 15px;
+    }
 
 }

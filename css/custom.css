@@ -32,4 +32,16 @@ a.search_partner_btn{
 .login_signup.nav-btn {
     justify-content: end;
 }
-
+.nav-bar .navbar-light .navbar-brand img {
+    padding-right: 10px;
+}
+.profile_icon_carousel{
+    padding-right: 6px;
+}
+.learn_more_carousel{
+    background-color: #00274D;
+    border: 1px solid white !important;
+}
+.header-carousel-item{
+    background-color:#002e60 !important;
+}
