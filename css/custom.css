@@ -45,3 +45,18 @@ a.search_partner_btn{
 .header-carousel-item{
     background-color:#002e60 !important;
 }
+.feature-item h4{
+    font-size: 1.4rem;
+}
+.feature .feature-item:hover {
+    background-color: #16406a;
+}
+.btn-primary {
+    background-color: #16406a;
+}
+.faq-section .accordion .accordion-item .accordion-header .accordion-button {
+    background-color: #16406a;
+}
+.faq-section .accordion .accordion-item .accordion-header .accordion-button.collapsed {
+    color: #16406a;
+}

@@ -1,3 +1,9 @@
+@media (min-width: 1200px) {
+    .display-4 {
+        font-size: 3.4rem;
+    }
+}
+
 @media only screen and (min-width: 960px) {
     .services_nav {
         display: none !important;
@@ -10,7 +16,12 @@
     }
    }
 
-   
+
+@media only screen and (max-width: 1200px) {
+    .display-1 {
+        font-size: calc(0.625rem + 3.5vw);
+    }
+}
 
 @media only screen and (max-width: 1400px) {
     .logo-text {
@@ -89,6 +100,9 @@
     .logo-text {
         font-size: 18px;
     }
+    .search_partner_carousel,.learn_more_carousel {
+        font-size: 0.6rem;
+    }
 
 }
 @media only screen and (max-width: 330px) {
@@ -97,3 +111,4 @@
     }
 
 }
+
