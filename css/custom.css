@@ -63,3 +63,6 @@ a.search_partner_btn{
 .footer_logo{
     width: 75px;
 }
+.navbar-collapse .search_partner.nav-btn {
+    padding-bottom: 20px;
+}
